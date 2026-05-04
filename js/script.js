@@ -96,3 +96,6 @@ btn.addEventListener('click',function(event){
 
 
 });
+//10 удаление тегов
+//живая коллекция
+const  text=document.querySelector('content')
